@@ -2,6 +2,8 @@ require_relative 'building'
 require_relative 'butler'
 
 class Castle < Building
+  attr_reader :butler
+
   def initialize(name, width, length)
     super(name, width, length)
     @butler = Butler.new(self) # self refers to the instance
