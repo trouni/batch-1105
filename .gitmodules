@@ -1,0 +1,9 @@
+[submodule "lectures/the-chopsticks-1105"]
+	path = lectures/the-chopsticks-1105
+	url = git@github.com:trouni/the-chopsticks-1105.git
+[submodule "geocoding-demo-1105"]
+	path = geocoding-demo-1105
+	url = git@github.com:trouni/geocoding-demo-1105.git
+[submodule "lectures/geocoding-demo"]
+	path = lectures/geocoding-demo
+	url = git@github.com:trouni/geocoding-demo-1105.git
