@@ -7,3 +7,6 @@
 [submodule "lectures/geocoding-demo"]
 	path = lectures/geocoding-demo
 	url = git@github.com:trouni/geocoding-demo-1105.git
+[submodule "lectures/rails-search"]
+	path = lectures/rails-search
+	url = git@github.com:trouni/rails-search-1105.git
